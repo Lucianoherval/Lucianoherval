@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luciano Herval</h1>
 <h3 align="center">A devoted Data Science student, committed to excellence, in Brazil</h3>
 
+<p aling="center" height="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdudDdwYm9ybXVjcWJnOHZxNzM4aWxtMDh4dWIxb2d3ODc5bWExeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp"></p>
+
 <p><h2 align="center">Mission</h2></p>
 <h3 align="center">My goal as a Data Science professional is to be part of a large-scale company where I have access to vast and complex datasets. This will provide me with significant challenges and opportunities for professional growth throughout my career.</h3>
 
